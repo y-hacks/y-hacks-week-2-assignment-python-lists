@@ -1,4 +1,4 @@
-# y-hacks-week-2-Assignment-Python-lists
+# y-hacks-week-2-Assignment-Python-Lists
 ## Overview
 This repository contains a Python script that demonstrates basic list operations based on the given assignment instructions. The script performs various tasks such as appending, inserting, extending, removing, sorting, and finding elements in a list.
 
